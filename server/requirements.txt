@@ -1,0 +1,8 @@
+Flask
+pickle
+flask_cors
+scikit-learn
+pandas
+gunicorn
+json
+requests
