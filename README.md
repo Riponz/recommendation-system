@@ -11,7 +11,7 @@
   <a href="#how-to-use">How To Use</a>
 </p>
 
-![screenshot](\movie-recommend.png)
+![screenshot](/movie-recommend.png)
 
 
 
